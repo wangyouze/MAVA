@@ -52,4 +52,5 @@ CUDA_VISIBLE_DEVICES="0,1,2" nohup python -m torch.distributed.launch --nproc_pe
   title={Boosting Adversarial Robustness of Vision-Language Pre-training Models against Multimodal Adversarial attacks},
   author={Wang, Youze and Hu, Wenbo and Li, Qin and Hong, Richang},
   booktitle={ICLR 2025 Workshop on Building Trust in Language Models and Applications}
-}```
+}
+```
