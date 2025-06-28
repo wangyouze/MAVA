@@ -31,16 +31,18 @@ CUDA_VISIBLE_DEVICES="0,1,2" nohup python -m torch.distributed.launch --nproc_pe
 ***
 1. Multimodal Adversarial Attacks:
 
-a. [Co-attack](https://github.com/adversarial-for-goodness/Co-Attack/blob/main/)
-b. [SGA](https://github.com/Zoky-2020/SGA)
-c. [VLP-attack](https://github.com/wangyouze/VLP-attack)
+    a. [Co-attack](https://github.com/adversarial-for-goodness/Co-Attack/blob/main/)
+
+    b. [SGA](https://github.com/Zoky-2020/SGA)
+
+    c. [VLP-attack](https://github.com/wangyouze/VLP-attack)
 
 2. AutoAttack:
 
-cd ./adversarial_robustness_VE/
-```
-python VE_autoattack.py --eps 2.0 --fine_tuning True
-```
+    cd ./adversarial_robustness_VE/
+    ```
+    python VE_autoattack.py --eps 2.0 --fine_tuning True
+    ```
 
 
 ### Citation
