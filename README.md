@@ -1,4 +1,4 @@
-### MAVA
+## MAVA
 
 This repository contains code for the paper "Boosting Adversarial Robustness of Vision-Language Pre-training Models against Multimodal Adversarial attacks"
 
