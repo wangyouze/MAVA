@@ -43,7 +43,7 @@ python VE_autoattack.py --eps 2.0 --fine_tuning True
 ```
 
 
-Citation
+### Citation
 ***
 ```
 @inproceedings{wang2025boosting,
