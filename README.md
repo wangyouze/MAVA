@@ -41,3 +41,13 @@ cd ./adversarial_robustness_VE/
 ```
 python VE_autoattack.py --eps 2.0 --fine_tuning True
 ```
+
+
+Citation
+***
+```
+@inproceedings{wang2025boosting,
+  title={Boosting Adversarial Robustness of Vision-Language Pre-training Models against Multimodal Adversarial attacks},
+  author={Wang, Youze and Hu, Wenbo and Li, Qin and Hong, Richang},
+  booktitle={ICLR 2025 Workshop on Building Trust in Language Models and Applications}
+}```
